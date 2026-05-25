@@ -1,0 +1,77 @@
+aid: kavak
+name: Kavak
+description: >-
+  Kavak is a Mexico-founded digital marketplace for buying, selling, and
+  financing pre-owned cars across Latin America, the Middle East, and Turkey.
+  Founded in 2016 in Mexico City by Carlos Garcia Ottati, Loreanne Garcia
+  Ottati, and Roger Laughlin, Kavak became Mexico's first unicorn in 2020 and
+  reached an $8.7B valuation in 2021 with backing from SoftBank, Sea Ltd, and
+  Founders Fund. The company operates an end-to-end consumer platform that
+  combines an e-commerce site and mobile app, physical hubs, in-house vehicle
+  reconditioning, and a financial-services arm (Kavak Capital, Kuna, and Kavak
+  Credito). Internally, Kavak uses machine learning and proprietary pricing
+  models to value, inspect, and route inventory across markets including
+  Mexico, Argentina, Brazil, Chile, the United Arab Emirates, and Turkey,
+  while sponsoring high-profile partners such as the NFL. Kavak's revenue
+  comes from vehicle sales, financing margins, and after-sales services, and
+  the company does not currently publish a public developer API, SDK, OpenAPI
+  specification, or open-source GitHub organization. Customer-facing
+  integrations are limited to the consumer web and mobile apps and partner
+  financing channels.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Automotive
+  - Used Cars
+  - Marketplace
+  - E-Commerce
+  - Mobile Commerce
+  - Consumer
+  - Financing
+  - Auto Loans
+  - Fintech
+  - Latin America
+  - Mexico
+  - Middle East
+  - Unicorn
+url: https://raw.githubusercontent.com/api-evangelist/kavak/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.kavak.com
+  - type: Mexico
+    url: https://www.kavak.com/mx
+  - type: Argentina
+    url: https://www.kavak.com/ar
+  - type: Brazil
+    url: https://www.kavak.com.br
+  - type: Chile
+    url: https://www.kavak.com/cl
+  - type: UAE
+    url: https://www.kavak.com/ae
+  - type: Turkey
+    url: https://www.kavak.com/tr
+  - type: SellYourCar
+    url: https://www.kavak.com/mx/vender
+  - type: Financing
+    url: https://www.kavak.com/mx/credito
+  - type: Blog
+    url: https://www.kavak.com/mx/blog
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/kavak.com
+  - type: Twitter
+    url: https://twitter.com/kavak_mx
+  - type: Instagram
+    url: https://www.instagram.com/kavak_mx
+  - type: YouTube
+    url: https://www.youtube.com/@KavakMx
+  - type: Facebook
+    url: https://www.facebook.com/Kavak.mx
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
